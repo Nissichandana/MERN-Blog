@@ -2,6 +2,10 @@
 
 #  Blog-Application
 
+
+### Deployed App: Project deployed on Render............
+
+
 ## Introduction: After much brainstorming I decided to build a Blog Application. I sought out many resources and YouTube tutorials. I came close to what I thought I would have in my App. I still have somethings that I am working on. 
 
 
@@ -27,7 +31,6 @@
 
 ## Getting Started: Links to the project's planning
 
-### Deployed App: Project deployed on Render............
 
 ### Trello:     https://trello.com/b/HzNZUH73/simple-project-board
 
