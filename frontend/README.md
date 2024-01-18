@@ -3,7 +3,7 @@
 #  Blog-Application
 
 
-### Deployed App: Project deployed on Render............
+### Deployed App: Project deployed on Render:   https://mern-blog-u4zt.onrender.com
 
 
 ## Introduction: After much brainstorming I decided to build a Blog Application. I sought out many resources and YouTube tutorials. I came close to what I thought I would have in my App. I still have somethings that I am working on. 
