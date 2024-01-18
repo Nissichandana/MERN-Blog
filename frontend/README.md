@@ -1,8 +1,9 @@
 # React + Vite
 
-# 
+#  Blog-Application
 
-## Introduction:
+## Introduction: After much brainstorming I decided to build a Blog Application. I sought out many resources and YouTube tutorials. I came close to what I thought I would have in my App. I still have somethings that I am working on. 
+
 
 ## Front-end built with React.js and the database MongoDB, Express as a backend framework handling incoming requests from the client, process them, interacts with the database, and sends back responses.
 ## 
@@ -19,17 +20,14 @@
 ## Thunder client extensio for frontend API testing
 ## Postman for backend API testing
 ## Learned new styling - TailwindCSS
-
-
-#### Libraries:
-#### 
+ 
 
 ![Alt text]()
 
 
-## Getting Started:
+## Getting Started: Links to the project's planning
 
-### Deployed App: Project deployed on Render
+### Deployed App: Project deployed on Render............
 
 ### Trello:     https://trello.com/b/HzNZUH73/simple-project-board
 
@@ -39,17 +37,19 @@
 
 ## Project-Blog-ERD:  https://app.diagrams.net/#G1dz4wOa4TSzIxIK8bhsV62qpH_cKKhL-d
 
+
 ### Future Enhancements: 
-###### Search functionality
-###### Comment functionality
+
+I want my blog to be intimate, resourceful, and encouraging others. 
+
 
 
 #### Resources I used:
 
 ###### https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/
-###### Building a Full-Stack MERN Blog Application from Scratch - YouTube
-###### Learn The MERN Stack - YouTube 
-###### My friends Rani, Mercy helped me with debuggig my code. Maria, Priyanka, Kristie, Georgette and all my classmates who motivated me to keep on going.
+###### Building a Full-Stack MERN Blog Application from Scratch - YouTube by Snehasish
+###### Learn The MERN Stack - YouTube Traversy Media
+###### My friends Rani, Mercy helped me with debuggig my code, and all my classmates who motivated me to keep on going.
 ###### Much encouragement from my family
 
 

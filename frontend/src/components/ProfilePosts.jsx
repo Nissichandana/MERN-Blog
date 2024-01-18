@@ -1,5 +1,5 @@
 
-import {IF} from '../url'
+//import {IF} from '../url'
 const ProfilePosts = ({p}) => {
   return (
     <div className="w-full flex mt-8 space-x-4">
